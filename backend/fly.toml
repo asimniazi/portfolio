@@ -1,5 +1,5 @@
-app = "portfolio-api"
-primary_region = "sin"
+app = "portfolio-lox-5a"
+primary_region = "ams"
 
 [build]
 
