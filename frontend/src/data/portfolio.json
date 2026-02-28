@@ -1,0 +1,104 @@
+{
+  "name": "Asim Khan Niazi",
+  "title": "Web Developer & AI Enthusiast",
+  "phone": "(+92) 300-0281455",
+  "email": "asimniazi100@gmail.com",
+  "github": "https://github.com/asimniazi",
+  "linkedin": "https://www.linkedin.com/in/i-am-asim-khan",
+  "summary": "Computer Science graduate, Web Developer, and AI enthusiast with strong expertise in backend development, AI-powered systems, and automation. Experienced in building real-world, production-oriented applications using Flask, FastAPI, React, MongoDB, and intelligent agents with LangChain and n8n. Final Year Project focuses on an AI-driven healthcare platform integrating voice AI, NLP, telephony APIs, and secure system design. Passionate educator known for simplifying complex technical concepts and building strong programming fundamentals.",
+  "education": {
+    "degree": "BS Computer Science",
+    "institution": "FAST-NUCES",
+    "period": "September 2022 - June 2026",
+    "cgpa": "3.1"
+  },
+  "skills": {
+    "Web & Backend Development": ["HTML", "CSS", "JavaScript", "React.js", "Flask", "FastAPI", "Node.js", "Express.js", "REST APIs", "MVC Architecture"],
+    "Databases": ["MongoDB", "SQL", "SQLite"],
+    "Programming Languages": ["Python", "JavaScript", "C", "C++", "Assembly"],
+    "AI & Automation": ["NLP (RNN, LSTM, BiLSTM, Transformers, Attention)", "LangChain", "n8n Automation", "AI Agents & Workflow Automation"],
+    "Tools": ["VS Code", "Git", "Postman", "Vercel"]
+  },
+  "finalYearProject": {
+    "title": "MediCall AI – AI Powered Healthcare Platform",
+    "problem": "Delays, poor prioritization, and lack of integrated online healthcare services.",
+    "solution": "Built a credit-based AI system to automate symptom analysis, consultations, and medicine delivery.",
+    "tech": ["React", "Tailwind", "Flask", "FastAPI", "MongoDB", "Twilio", "Whisper AI", "LangChain", "WebRTC"],
+    "featured": true
+  },
+  "experience": [
+    {
+      "title": "Software Development Intern – MERN Stack",
+      "company": "",
+      "highlights": [
+        "Developed a job-matching platform with secure authentication and role-based access.",
+        "Implemented skill-based job filtering, job posting, and management modules.",
+        "Built responsive UI using React and Tailwind CSS with dynamic routing.",
+        "Designed RESTful APIs using Node.js and Express following MVC architecture.",
+        "Secured backend using JWT authentication and bcrypt encryption.",
+        "Used MongoDB with Mongoose for data modeling and persistence.",
+        "Deployed frontend on Vercel and tested APIs using Postman."
+      ]
+    }
+  ],
+  "paidProjects": [
+    {
+      "title": "Industry Automation Agents (n8n)",
+      "highlights": [
+        "Built intelligent automation agents using n8n for real-world workflow automation.",
+        "Automated scheduling, notifications, and data handling tasks.",
+        "Designed reusable automation pipelines for scalable deployment."
+      ]
+    },
+    {
+      "title": "Backend Web Application (Flask)",
+      "highlights": [
+        "Developed a production-level backend using Flask.",
+        "Implemented REST APIs, authentication, and database integration.",
+        "Delivered a client-ready, secure backend system."
+      ]
+    }
+  ],
+  "academicProjects": [
+    {
+      "title": "Dodge-EM Game",
+      "tech": "C++",
+      "description": "Object-oriented game with levels and scoring."
+    },
+    {
+      "title": "Hostel Management System",
+      "tech": "C++",
+      "description": "Room allocation and student record management using OOP."
+    },
+    {
+      "title": "Dictionary Application",
+      "tech": "Data Structures",
+      "description": "Fast lookup using hash tables."
+    },
+    {
+      "title": "Airline Management System",
+      "tech": "Database",
+      "description": "Flight scheduling and booking using database principles."
+    }
+  ],
+  "certifications": [
+    "Internship Certificate by Uworx.co.uk",
+    "Flask Development Certificate, issued by Udemy",
+    "TEDx Security Certificate, issued by FAST-NUCES",
+    "DAIRA Management Certificate"
+  ],
+  "courses": [
+    "Programming Fundamentals (C, C++, Python, JavaScript)",
+    "Object Oriented Programming",
+    "Operating Systems",
+    "Web Development",
+    "Software Engineering",
+    "Information Security",
+    "Natural Language Processing",
+    "Deep Learning for Perception",
+    "Data Structures & Algorithms",
+    "Artificial Intelligence",
+    "Database Systems",
+    "Compiler Construction"
+  ]
+}
